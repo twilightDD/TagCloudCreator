@@ -2,7 +2,7 @@
 //  ColorCell.m
 //  TagCloudCreator
 //
-//  Created by Ingo Kasprzak on 11.05.11.
+//  Created by Dr. Max Muntzel, den Doktor können Sie weglassen, on 11.05.11.
 //  Copyright 2011 Silutions. All rights reserved.
 //
 
